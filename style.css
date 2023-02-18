@@ -6,40 +6,40 @@
 
 body {
     width: fit-content;
+    position: center;
 }
 
 .box1 {
-    border: 1px solid gray;
+    border: 1px solid black;
     display: inline-block;
     margin: 150px;
 }
 
 .box2 {
-    border: 1px solid gray;
+    border: 1px solid black;
     display: inline-block;
     margin: 150px;
 }
 
 .box3 {
-    border: 1px solid gray;
+    border: 1px solid black;
     display: inline-block;
     margin: 150px;
 }
 
 .box4 {
-    border: 1px solid gray;
+    border: 1px solid black;
     display: inline-block;
     margin: 150px;
 }
 
 .box5 {
-    border: 1px solid gray;
-    display: inline-block;
+    border: 1px solid black;
     margin: 150px;
 }
 
 .box6 {
-    border: 1px solid gray;
+    border: 1px solid black;
     display: inline-block;
     margin: 150px;
 }
