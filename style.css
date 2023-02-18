@@ -4,6 +4,42 @@
     box-sizing: border-box;
 }
 
+body {
+    width: fit-content;
+}
+
 .box1 {
-display: inline-block;
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 150px;
+}
+
+.box2 {
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 150px;
+}
+
+.box3 {
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 150px;
+}
+
+.box4 {
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 150px;
+}
+
+.box5 {
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 150px;
+}
+
+.box6 {
+    border: 1px solid gray;
+    display: inline-block;
+    margin: 150px;
 }
