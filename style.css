@@ -28,6 +28,34 @@
     width: 1400px;
 }
 
+.c7 {
+    width: 1800px;
+}
+
+.c8 {
+    width: 1800px;
+}
+
+.c9 {
+    width: 1800px;
+}
+
+.c10 {
+    width: 1800px;
+}
+
+.c11 {
+    width: 1800px;
+}
+
+.c12 {
+    width: 1800px;
+}
+
+.c13 {
+    width: 1400px;
+}
+
 .box1 {
     display: inline-block;
     margin: 87px;
@@ -64,6 +92,48 @@
     max-width: 300px;
 }
 
+.box7 {
+    display: inline-block;
+    margin: 87px;
+    max-width: 300px;
+}
+
+.box8 {
+    display: inline-block;
+    margin: 87px;
+    max-width: 300px;
+}
+
+.box9 {
+    display: inline-block;
+    margin: 87px;
+    max-width: 300px;
+}
+
+.box10 {
+    display: inline-block;
+    margin: 87px;
+    max-width: 300px;
+}
+
+.box11 {
+    display: inline-block;
+    margin: 87px;
+    max-width: 300px;
+}
+
+.box12 {
+    display: inline-block;
+    margin: 87px;
+    max-width: 300px;
+}
+
+.box13 {
+    display: inline-block;
+    margin: 200px;
+    max-width: 300px;
+}
+
 .box1:last-child {
     margin-right: 0;
 }
@@ -88,14 +158,47 @@
     margin-right: 0;
 }
 
+.box7:last-child {
+    margin-right: 0;
+}
+
+.box8:last-child {
+    margin-right: 0;
+}
+
+.box9:last-child {
+    margin-right: 0;
+}
+
+.box10:last-child {
+    margin-right: 0;
+}
+
+.box11:last-child {
+    margin-right: 0;
+}
+
+.box12:last-child {
+    margin-right: 0;
+}
+
+.box13:last-child {
+    margin-right: 0;
+}
+
 .card {
-  border-radius: 10px 10px 10px 10px;
+    background-color: white;
+}
+
+.cards {
+  border: solid white;
+  border-radius: 10px 10px 0px 0px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: auto;
   text-align: center;
-  font-family: arial;
+  font-family: 'Trebuchet MS';
 }
 
 .title {
