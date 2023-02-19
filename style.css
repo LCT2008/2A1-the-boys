@@ -5,7 +5,7 @@
 }
 
 .c1 {
-    width: 1800px;
+    width: 300px;
 }
 
 .c2 {
@@ -192,6 +192,7 @@
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
+  max-height: 520px;
   margin: auto;
   text-align: center;
   font-family: arial;
