@@ -188,24 +188,24 @@
 
 .card {
   border: solid white;
-  border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: auto;
   text-align: center;
-  font-family: 'Trebuchet MS';
+  font-family: 'Futura';
 }
 
 .cards {
   border: solid white;
-  border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 10px 10px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
   margin: auto;
   text-align: center;
-  font-family: 'Trebuchet MS';
+  font-family: 'Futura';
 }
 
 .title {
