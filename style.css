@@ -186,6 +186,10 @@
     margin-right: 0;
 }
 
+.card {
+    border-radius: 10px 10px 0px 0px;
+}
+
 .cards {
   border-radius: 10px 10px 10px 10px;
   background-color: white;
